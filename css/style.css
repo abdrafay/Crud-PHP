@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background:linear-gradient(90deg,rgb(4, 92, 136), rgb(36, 161, 219) ) !important;
+}
+main{
+    padding-top: 100px;
+}
+.filter_content {
+    border: 1px solid #074F74;
+    /* color: #fff; */
+    font-weight: 500;
+    margin: 10px 0px;
+}
+thead {
+    /* background: #467D97; */
+    border: 1px solid #467D97;
+    /* color: #fff; */
+}
+thead {
+    background: rgb(36, 161, 219)!important;
+    color: #fff;
+}
+.login_form {
+    position: absolute;
+    max-width: 60%;
+    min-width: 40%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ul li{
+    list-style: none;
+}
